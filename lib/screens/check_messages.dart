@@ -125,7 +125,6 @@ class CheckMessagesState extends State<CheckMessages> {
                                     new DateTime.now().millisecondsSinceEpoch;
                               }
 
-                              print(timeStamps);
                             });
                           }),
                     ),
@@ -142,7 +141,6 @@ class CheckMessagesState extends State<CheckMessages> {
                                     new DateTime.now().millisecondsSinceEpoch;
                               }
 
-                              print(timeStamps);
                             });
                           }),
                     ),
@@ -159,7 +157,6 @@ class CheckMessagesState extends State<CheckMessages> {
                                     new DateTime.now().millisecondsSinceEpoch;
                               }
 
-                              print(timeStamps);
                             });
                           }),
                     ),
@@ -176,7 +173,6 @@ class CheckMessagesState extends State<CheckMessages> {
                                     new DateTime.now().millisecondsSinceEpoch;
                               }
 
-                              print(timeStamps);
                             });
                           }),
                     ),
@@ -193,7 +189,6 @@ class CheckMessagesState extends State<CheckMessages> {
                                     new DateTime.now().millisecondsSinceEpoch;
                               }
 
-                              print(timeStamps);
                             });
                           }),
                     ),

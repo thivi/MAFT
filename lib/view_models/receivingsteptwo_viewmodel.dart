@@ -49,8 +49,8 @@ class ReceivingStepTwoViewModel {
               electionId, store.state.invoiceState.invoiceId, ballotBoxId));
         },
         confirmInvoice: () {
-          store.dispatch(
-              new ConfirmInvoiceActionReceiving(store.state.invoiceState.invoiceId));
+          store.dispatch(new ConfirmInvoiceActionReceiving(
+              store.state.invoiceState.invoiceId));
         },
         activeBallotBook: store.state.ballotBookState.getModel(),
         invoiceId: store.state.invoiceState.invoiceId,
